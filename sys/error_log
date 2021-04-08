@@ -1,0 +1,1 @@
+[11-Sep-2020 10:20:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/raflymau/gallery.raflymaulana.com/sys/upload_img.php:26) in /home/raflymau/gallery.raflymaulana.com/sys/upload_img.php on line 27
